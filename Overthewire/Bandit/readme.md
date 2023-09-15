@@ -1,4 +1,4 @@
-## [Detailed Guide](https://palash-jain369.github.io/posts/bandit/)
+## [Detailed Guide On My Website](https://palash-jain369.github.io/posts/bandit/)
 
 ### Bandit wargame will let players experience following concepts:
 - Workin with Command Line Interaface
